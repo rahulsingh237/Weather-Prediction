@@ -7,5 +7,5 @@ Using application programming interfaces from different websites and scraping th
 3.After the fulfillment of the first two steps, open command prompt and type "pip install requests" (this will install requests library into the system. <br />
 4.Type pip install pprint in cmd. This basically is for backend to get intendation to see through the dictionary stuff. This library is also called pretty printing.<br />
 
-#### now run the program in cmd by basic python command for running that is : python <filename>.py
+#### now run the program in cmd by basic python command for running that is : python < filename >.py
 
